@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "1020"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9A6FEC4E1D796D6F008C347B"
+               BlueprintIdentifier = "BAFFF14B22801782008C95DC"
                BuildableName = "PlaygroundSupport.framework"
-               BlueprintName = "PlaygroundSupport"
+               BlueprintName = "PlaygroundSupport-ios"
                ReferencedContainer = "container:PlaygroundSupport.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9A6FEC4E1D796D6F008C347B"
+            BlueprintIdentifier = "BAFFF14B22801782008C95DC"
             BuildableName = "PlaygroundSupport.framework"
-            BlueprintName = "PlaygroundSupport"
+            BlueprintName = "PlaygroundSupport-ios"
             ReferencedContainer = "container:PlaygroundSupport.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9A6FEC4E1D796D6F008C347B"
+            BlueprintIdentifier = "BAFFF14B22801782008C95DC"
             BuildableName = "PlaygroundSupport.framework"
-            BlueprintName = "PlaygroundSupport"
+            BlueprintName = "PlaygroundSupport-ios"
             ReferencedContainer = "container:PlaygroundSupport.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

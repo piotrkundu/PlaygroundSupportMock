@@ -1,11 +1,3 @@
-//
-//  PlaygroundSupport.swift
-//  PlaygroundSupport
-//
-//  Created by Lou Franco on 9/2/16.
-//  Copyright © 2016 Lou Franco.
-//
-
 import Foundation
 
 public enum PlaygroundValue {
