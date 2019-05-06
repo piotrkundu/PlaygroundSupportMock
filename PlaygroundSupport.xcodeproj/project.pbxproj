@@ -145,7 +145,7 @@
 			dependencies = (
 			);
 			name = "PlaygroundSupport-ios";
-			productName = "ev3swift-ios";
+			productName = "PlaygroundSupport-ios";
 			productReference = BAFFF14C22801782008C95DC /* PlaygroundSupport.framework */;
 			productType = "com.apple.product-type.framework";
 		};
@@ -163,7 +163,7 @@
 			dependencies = (
 			);
 			name = "PlaygroundSupport-watchos";
-			productName = "ev3swift-watchos";
+			productName = "PlaygroundSupport-watchos";
 			productReference = BAFFF15A228017B1008C95DC /* PlaygroundSupport.framework */;
 			productType = "com.apple.product-type.framework";
 		};
@@ -181,7 +181,7 @@
 			dependencies = (
 			);
 			name = "PlaygroundSupport-osx";
-			productName = "ev3swift-osx";
+			productName = "PlaygroundSupport-osx";
 			productReference = BAFFF167228017FD008C95DC /* PlaygroundSupport.framework */;
 			productType = "com.apple.product-type.framework";
 		};
