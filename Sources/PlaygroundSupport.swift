@@ -25,7 +25,9 @@ public class PlaygroundPage {
     public static var current = PlaygroundPage()
     public var liveView: AnyObject!
 }
-
+public class PlaygroundKeyValueStore {
+    
+}
 public class PlaygroundRemoteLiveViewProxy: PlaygroundRemoteLiveView {
     public func send(_ value: PlaygroundValue) {
         
